@@ -1,0 +1,3 @@
+﻿  MPIHelloWorld.cpp
+C:\Users\Victor\Documents\projects\MPIHelloWorld\MPIHelloWorld\MPIHelloWorld\MPIHelloWorld.cpp(40,19): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  MPIHelloWorld.vcxproj -> C:\Users\Victor\Documents\projects\MPIHelloWorld\MPIHelloWorld\x64\Debug\MPIHelloWorld.exe
